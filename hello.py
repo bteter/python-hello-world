@@ -4,7 +4,8 @@
 # to the console (the panel on the right)
 
 print("Hello");
-
+print("32");
+print('then I said, "i am goood at this"');
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
