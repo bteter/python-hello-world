@@ -3,9 +3,17 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
-print("32");
-print('then I said, "i am goood at this"');
+# print("Hello");
+# print("32");
+# print('then I said, "i am goood at this"');
+# print("Hello, world!")
+
+print("hello, " + " world!" + "this is one line.")
+name = "f-string"
+print(f"hello, {name}! this is on one line.")
+
+print('And then he said, "hey man"')
+
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
